@@ -3,8 +3,8 @@ package com.bintex;
 public class Principal {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		System.out.println("Prueba desde el diplomado Java en la UNPHU");
 	}
 
 }
